@@ -1,0 +1,19 @@
+{
+    "version": "0.1",
+    "name": "erik/debug",
+    "description": "A tiny Debug component.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Erik\\Debug\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Erik Horst Reuter",
+            "email": "erik.horst.reuter@outlook.de"
+        }
+    ],
+    "require": {}
+}
